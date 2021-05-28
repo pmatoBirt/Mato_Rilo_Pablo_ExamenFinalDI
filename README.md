@@ -7,18 +7,22 @@ Mato_Rilo_Pablo_ExamenFinalDI
 - License (#License)
 - Reference (References)
 
+<a name="About"/>
 ## About
 
 Ejemplo de dashboard basado en la BD northwind que permite visualizar los pedidos de los clientes
 
+<a name="Contact"/>
 ## Contact
 
 Pablo Mato Rilo - pmato at birt.eus
 
+<a name="License"/>
 ## License
 
 Todos los derechos reservados
 
+<a name="References"/>
 ## References
 
 * **Andrés Villanueva** (https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
