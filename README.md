@@ -2,10 +2,10 @@
 Mato_Rilo_Pablo_ExamenFinalDI
 
 ## Índice
--[About] (#about)
--[Contact] (#contact)
--[License] (#license)
--[Reference] (#references)
+- [About] (#about)
+- [Contact] (#contact)
+- [License] (#license)
+- [References] (#references)
 
 <a name="About"/>
 ## About
