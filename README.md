@@ -4,8 +4,8 @@ Mato_Rilo_Pablo_ExamenFinalDI
 ## Índice
 - [About] (#About)
 - [Contact] (#Contact)
-_ [License] (#License)
-_ [Reference] (#References)
+- [License] (#License)
+- [Reference] (#References)
 
 <a name="About"/>
 ## About
